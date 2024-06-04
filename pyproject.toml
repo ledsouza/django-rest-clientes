@@ -21,6 +21,7 @@ sqlparse = "^0.5.0"
 toml = "^0.10.2"
 wrapt = "^1.16.0"
 validate-docbr = "^1.10.0"
+faker = "^25.4.0"
 
 
 [build-system]
