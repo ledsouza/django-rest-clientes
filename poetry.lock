@@ -267,6 +267,16 @@ files = [
 ]
 
 [[package]]
+name = "validate-docbr"
+version = "1.10.0"
+description = "Validate brazilian documents."
+optional = false
+python-versions = "*"
+files = [
+    {file = "validate_docbr-1.10.0-py3-none-any.whl", hash = "sha256:ff016f180b0c5ecff06abce1d83385924438c4d4c7f5c050e90fb724f1d968bb"},
+]
+
+[[package]]
 name = "wrapt"
 version = "1.16.0"
 description = "Module for decorators, wrappers and monkey patching."
@@ -348,4 +358,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "8120fe6e887efbb8b52743f650c10b881871f6711cb05eaf3c324e6d7b3feb52"
+content-hash = "ee2a1b56eb9d685eaa020a82b9e910cb0bc06a3be769a171fd3613ab93aaf8fb"
